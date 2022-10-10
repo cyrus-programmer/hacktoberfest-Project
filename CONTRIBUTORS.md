@@ -1,3 +1,8 @@
+#### Name: Shaiq Paracha
+ - Place: Peshawar, Pakistan
+ - Bio: Flutter Dev. Python Web Scraper, C# Desktop App Dev, unity Dev.
+ - GitHub: [cyrus-programmer](https://github.com/cyrus-programmer)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
