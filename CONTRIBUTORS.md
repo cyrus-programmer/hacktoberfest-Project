@@ -1,6 +1,6 @@
 #### Name: Shaiq Paracha
  - Place: Peshawar, Pakistan
- - Bio: Flutter Dev. Python Web Scraper, C# Desktop App Dev, unity Dev.
+ - Bio: Flutter Dev. Python Web Scraper, C# Desktop App Dev.
  - GitHub: [cyrus-programmer](https://github.com/cyrus-programmer)
  
 #### Name: Vallenain
